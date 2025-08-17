@@ -91,7 +91,6 @@ This lab is for educational purposes, but feel free to fork or adapt it for your
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
 ---
 
